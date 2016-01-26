@@ -1,0 +1,281 @@
+[CUDA] Computing model : 11.00
+[CPU] Computing Model: 36.00
+Features: 50
+Number of Hypotheses: 120000
+CPU: 41.00
+CUDA: 16.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 44.00
+Features: 50
+Number of Hypotheses: 140000
+CPU: 50.00
+CUDA: 19.00
+--------------------------------------
+[CUDA] Computing model : 15.00
+[CPU] Computing Model: 49.00
+Features: 50
+Number of Hypotheses: 160000
+CPU: 56.00
+CUDA: 22.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 56.00
+Features: 50
+Number of Hypotheses: 180000
+CPU: 64.00
+CUDA: 25.00
+--------------------------------------
+[CUDA] Computing model : 18.00
+[CPU] Computing Model: 59.00
+Features: 50
+Number of Hypotheses: 200000
+CPU: 68.00
+CUDA: 27.00
+--------------------------------------
+[CUDA] Computing model : 11.00
+[CPU] Computing Model: 57.00
+Features: 100
+Number of Hypotheses: 120000
+CPU: 77.00
+CUDA: 32.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 67.00
+Features: 100
+Number of Hypotheses: 140000
+CPU: 90.00
+CUDA: 36.00
+--------------------------------------
+[CUDA] Computing model : 15.00
+[CPU] Computing Model: 76.00
+Features: 100
+Number of Hypotheses: 160000
+CPU: 103.00
+CUDA: 42.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 86.00
+Features: 100
+Number of Hypotheses: 180000
+CPU: 116.00
+CUDA: 46.00
+--------------------------------------
+[CUDA] Computing model : 18.00
+[CPU] Computing Model: 96.00
+Features: 100
+Number of Hypotheses: 200000
+CPU: 129.00
+CUDA: 51.00
+--------------------------------------
+[CUDA] Computing model : 12.00
+[CPU] Computing Model: 79.00
+Features: 150
+Number of Hypotheses: 120000
+CPU: 120.00
+CUDA: 53.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 92.00
+Features: 150
+Number of Hypotheses: 140000
+CPU: 141.00
+CUDA: 62.00
+--------------------------------------
+[CUDA] Computing model : 15.00
+[CPU] Computing Model: 105.00
+Features: 150
+Number of Hypotheses: 160000
+CPU: 161.00
+CUDA: 71.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 117.00
+Features: 150
+Number of Hypotheses: 180000
+CPU: 179.00
+CUDA: 80.00
+--------------------------------------
+[CUDA] Computing model : 19.00
+[CPU] Computing Model: 131.00
+Features: 150
+Number of Hypotheses: 200000
+CPU: 200.00
+CUDA: 89.00
+--------------------------------------
+[CUDA] Computing model : 12.00
+[CPU] Computing Model: 101.00
+Features: 200
+Number of Hypotheses: 120000
+CPU: 173.00
+CUDA: 85.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 118.00
+Features: 200
+Number of Hypotheses: 140000
+CPU: 202.00
+CUDA: 98.00
+--------------------------------------
+[CUDA] Computing model : 16.00
+[CPU] Computing Model: 135.00
+Features: 200
+Number of Hypotheses: 160000
+CPU: 233.00
+CUDA: 114.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 151.00
+Features: 200
+Number of Hypotheses: 180000
+CPU: 260.00
+CUDA: 127.00
+--------------------------------------
+[CUDA] Computing model : 20.00
+[CPU] Computing Model: 168.00
+Features: 200
+Number of Hypotheses: 200000
+CPU: 290.00
+CUDA: 141.00
+--------------------------------------
+[CUDA] Computing model : 12.00
+[CPU] Computing Model: 122.00
+Features: 250
+Number of Hypotheses: 120000
+CPU: 231.00
+CUDA: 121.00
+--------------------------------------
+[CUDA] Computing model : 14.00
+[CPU] Computing Model: 142.00
+Features: 250
+Number of Hypotheses: 140000
+CPU: 269.00
+CUDA: 140.00
+--------------------------------------
+[CUDA] Computing model : 16.00
+[CPU] Computing Model: 163.00
+Features: 250
+Number of Hypotheses: 160000
+CPU: 308.00
+CUDA: 162.00
+--------------------------------------
+[CUDA] Computing model : 18.00
+[CPU] Computing Model: 183.00
+Features: 250
+Number of Hypotheses: 180000
+CPU: 346.00
+CUDA: 182.00
+--------------------------------------
+[CUDA] Computing model : 20.00
+[CPU] Computing Model: 204.00
+Features: 250
+Number of Hypotheses: 200000
+CPU: 385.00
+CUDA: 202.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 144.00
+Features: 300
+Number of Hypotheses: 120000
+CPU: 296.00
+CUDA: 164.00
+--------------------------------------
+[CUDA] Computing model : 14.00
+[CPU] Computing Model: 169.00
+Features: 300
+Number of Hypotheses: 140000
+CPU: 345.00
+CUDA: 191.00
+--------------------------------------
+[CUDA] Computing model : 16.00
+[CPU] Computing Model: 192.00
+Features: 300
+Number of Hypotheses: 160000
+CPU: 395.00
+CUDA: 220.00
+--------------------------------------
+[CUDA] Computing model : 19.00
+[CPU] Computing Model: 215.00
+Features: 300
+Number of Hypotheses: 180000
+CPU: 442.00
+CUDA: 248.00
+--------------------------------------
+[CUDA] Computing model : 21.00
+[CPU] Computing Model: 239.00
+Features: 300
+Number of Hypotheses: 200000
+CPU: 492.00
+CUDA: 275.00
+--------------------------------------
+[CUDA] Computing model : 12.00
+[CPU] Computing Model: 165.00
+Features: 350
+Number of Hypotheses: 120000
+CPU: 367.00
+CUDA: 214.00
+--------------------------------------
+[CUDA] Computing model : 14.00
+[CPU] Computing Model: 192.00
+Features: 350
+Number of Hypotheses: 140000
+CPU: 428.00
+CUDA: 251.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 220.00
+Features: 350
+Number of Hypotheses: 160000
+CPU: 491.00
+CUDA: 289.00
+--------------------------------------
+[CUDA] Computing model : 19.00
+[CPU] Computing Model: 245.00
+Features: 350
+Number of Hypotheses: 180000
+CPU: 547.00
+CUDA: 322.00
+--------------------------------------
+[CUDA] Computing model : 21.00
+[CPU] Computing Model: 274.00
+Features: 350
+Number of Hypotheses: 200000
+CPU: 613.00
+CUDA: 359.00
+--------------------------------------
+[CUDA] Computing model : 13.00
+[CPU] Computing Model: 184.00
+Features: 400
+Number of Hypotheses: 120000
+CPU: 443.00
+CUDA: 273.00
+--------------------------------------
+[CUDA] Computing model : 16.00
+[CPU] Computing Model: 216.00
+Features: 400
+Number of Hypotheses: 140000
+CPU: 519.00
+CUDA: 319.00
+--------------------------------------
+[CUDA] Computing model : 17.00
+[CPU] Computing Model: 247.00
+Features: 400
+Number of Hypotheses: 160000
+CPU: 595.00
+CUDA: 366.00
+--------------------------------------
+[CUDA] Computing model : 19.00
+[CPU] Computing Model: 278.00
+Features: 400
+Number of Hypotheses: 180000
+CPU: 669.00
+CUDA: 408.00
+--------------------------------------
+[CUDA] Computing model : 21.00
+[CPU] Computing Model: 309.00
+Features: 400
+Number of Hypotheses: 200000
+CPU: 743.00
+CUDA: 456.00
+--------------------------------------
+
