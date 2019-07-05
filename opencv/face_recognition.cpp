@@ -13,8 +13,8 @@
  
 using namespace std;
 using namespace cv;
-String face_cascade_name = "/usr/local/share/OpenCV/haarcascades/haarcascade_frontalface_alt.xml";
-String eyes_cascade_name = "/usr/local/share/OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml";
+String face_cascade_name = "/usr/share/opencv/haarcascades/haarcascade_frontalface_alt.xml";
+String eyes_cascade_name = "/usr/share/opencv/haarcascades/haarcascade_eye_tree_eyeglasses.xml";
 String window_name = "webcam_stream";
 CascadeClassifier face_cascade;
 CascadeClassifier eyes_cascade;
@@ -98,10 +98,12 @@ int main( int argc, char** argv )
   if( !face_cascade.load( face_cascade_name ) ){ printf("--(!)Error loading\n"); return -1; };
   if( !eyes_cascade.load( eyes_cascade_name ) ){ printf("--(!)Error loading\n"); return -1; };
 
-  capture = cvCaptureFromCAM( 0 );
+  VideoCapture cap(0);
+  if(!cap.isOpened()) return -1;
+
 
   while( key != 'q' ) {
-    frame = cvQueryFrame( capture );
+    cap >> frame;
     if( frame.empty() ) break;
     //preprocess frame
     

@@ -6,8 +6,7 @@
 namespace util{
 static uint print_msg_counter = 0;
 #define CUR_LOCATION "@" << __FILE__ << ":" << __LINE__
-#define PRINT(msg) std::cout << "[" << print_msg_counter++ << "] " << \
-        msg << " (" << CUR_LOCATION << ")" << std::endl
+#define PRINT(msg) std::cout << msg << " (" << CUR_LOCATION << ")" << std::endl
 #define ABORT(msg) PRINT(msg); throw msg;
 #define EXIT(msg) PRINT(msg); exit;
 #define COUT(msg) PRINT(msg);
@@ -113,12 +112,10 @@ public:
 }
 
 int main(){
+  util::Vector<float> b(3);
 
-
-	Vector<float> b(3);
-
-	Vector<int> a(4);
-	Matrix<int> m(4,4);
+  util::Vector<int> a(4);
+  util::Matrix<int> m(4,4);
 	//*/
 	m(0,0)=1;
 	m(0,1)=2;

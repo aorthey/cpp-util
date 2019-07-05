@@ -3,7 +3,7 @@ SRC:=$(wildcard $(addsuffix /*.cpp,$(VPATH)))
 BIN:=bin
 CFLAGS := -g -w
 EXEC:= $(addprefix $(BIN)/,$(notdir $(SRC:.cpp=)))
-LIBS:= `pkg-config opencv-2.3.1 --cflags --libs` `pkg-config opencv --cflags --libs`
+LIBS:= `pkg-config opencv --cflags --libs`
 CFLAGS:= -Wall -g
 
 all: $(EXEC)
